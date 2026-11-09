@@ -55,7 +55,7 @@ Examines discount bands, profit margins, and how profitability changes across di
 ![Profitability & Discount Analysis](Power%20BI/Profitability%20&%20Discount%20Analysis.png)
 
 **Explore the report:**
-- [Interactive Power BI Report (.pbix)](Power%20BI/Indian_Retail_Sales_Profitability_Analysis.pbix)
+- [Interactive Power BI Report (.pbix)](Power%20BI/Retail%20Store%20Sales%20&%20Profitability%20Analysis%20Dashboard.pbix)
 - [Dashboard PDF](Power%20BI/Indian_Retail_Sales_Profitability_Analysis.pdf)
 
 ## 💡 Key Business Insights
