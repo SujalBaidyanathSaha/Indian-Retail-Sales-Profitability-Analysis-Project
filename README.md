@@ -40,19 +40,19 @@ The Power BI report contains three interactive pages, designed to help users exp
 
 High-level business performance, KPIs, yearly trends, category sales, state performance, and customer segments.
 
-![Executive Overview](Power%20BI/Screenshots/01_Executive_Overview.png)
+![Executive Overview](Power%20BI/Executive%20Overview.png)
 
 ### 2. Product & Market Performance
 
 Explores product categories, sub-categories, states, regions, outlet types, and city-level performance.
 
-![Product & Market Performance](Power%20BI/Screenshots/02_Product_Market_Performance.png)
+![Product & Market Performance](Power%20BI/Product%20&%20Market%20Performance.png)
 
 ### 3. Profitability & Discount Analysis
 
 Examines discount bands, profit margins, and how profitability changes across discount levels.
 
-![Profitability & Discount Analysis](Power%20BI/Screenshots/03_Profitability_Discount_Analysis.png)
+![Profitability & Discount Analysis](Power%20BI/Profitability%20&%20Discount%20Analysis.png)
 
 **Explore the report:**
 - [Interactive Power BI Report (.pbix)](Power%20BI/Indian_Retail_Sales_Profitability_Analysis.pbix)
